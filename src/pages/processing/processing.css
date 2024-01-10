@@ -1,0 +1,11 @@
+form .check {
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  align-items: center;
+}
+form .check input {
+  width: 16px;
+  height: 16px;
+  cursor: pointer;
+}
